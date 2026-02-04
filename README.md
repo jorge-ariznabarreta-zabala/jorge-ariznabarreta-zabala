@@ -1,3 +1,9 @@
+[🇪🇸 Español](#-español) | [🇬🇧 English](#-english)
+
+---
+
+## 🇪🇸 Español
+
 # 👋 Hola, soy Avanzira
 
 Este repositorio contiene **versiones públicas, demos y ejemplos** de software que desarrollo y mantengo en producción.
@@ -33,10 +39,10 @@ Este repositorio sirve como **escaparate técnico**, no como reflejo completo de
 
 ## 🛠️ Áreas de trabajo
 
-- 🖥️ Software Desktop
-- 🌐 Páginas web
-- ⚙️ Aplicaciones web
-- 📱 Apps Android
+- 🖥️ Software Desktop  
+- 🌐 Páginas web  
+- ⚙️ Aplicaciones web  
+- 📱 Apps Android  
 
 ---
 
@@ -51,3 +57,61 @@ Si quieres más detalles, una demo completa o hablar de colaboración:
 ---
 
 > Desarrollo software pensado para usarse, mantenerse y escalar.
+
+---
+
+## 🇬🇧 English
+
+# 👋 Hi, I’m Avanzira
+
+This repository contains **public versions, demos, and examples** of software that I develop and maintain in production environments.
+
+The goal is to showcase **how I work**, **the type of solutions I build**, and **the technologies I use**, without exposing private or sensitive code.
+
+---
+
+## 🧩 What you’ll find here
+
+In this repository (and this account) I publish:
+
+- 🌐 **Web applications** (demos, prototypes, reduced versions)
+- 📱 **Android apps** (public or demo builds)
+- 🖥️ **Desktop software examples**
+- ⚙️ **Technical tests and showcase projects**
+
+These projects represent **public or simplified versions** of software that, in many cases, exists as a **production-ready product** in private environments.
+
+---
+
+## 🔐 About production software
+
+Most of my real-world work is developed in:
+
+- **Private repositories**
+- **Production environments**
+- Actively maintained projects
+
+This repository acts as a **technical showcase**, not as a complete reflection of my total workload.
+
+---
+
+## 🛠️ Areas of work
+
+- 🖥️ Desktop software  
+- 🌐 Websites  
+- ⚙️ Web applications  
+- 📱 Android apps  
+
+---
+
+## 🤝 Contact & more information
+
+If you’d like more details, a full demo, or to discuss collaboration:
+
+- 🌐 **Portfolio**: https://ariznabarreta.eu/
+- 💼 **LinkedIn**: https://www.linkedin.com/in/jorge-ariznabarreta/
+- ✉️ **Email**: jorge.ariznabarreta.zabala+github@gmail.com
+
+---
+
+> I build software meant to be used, maintained, and scaled.
